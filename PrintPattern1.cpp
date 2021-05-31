@@ -2,15 +2,15 @@
 //	Q. Accept two numbers and display first number 
 //	   in second number of times.
 //
-//	Input:	12	5			|	-2  0      | -2   3   
-//  Output: 12 12 12 12 12  |   		   | -2  -2  -2
+//	Input:	12	5	|	-2  0      | -2   3   
+//  	Output: 12 12 12 12 12  |   		   | -2  -2  -2
 //
 //	
 //	Input: 		Int,Int
-//  Output: 	Int
-//	Technology: C++
+// 	Output: 	Int
+//	Technology:	 C++
 //
-//  Author: 	Sanket Kolhe
+// 	Author: 	Sanket Kolhe
 //	Date :  	31/05/2021
 //
 ////////////////////////////////////////////////////////////////////////////

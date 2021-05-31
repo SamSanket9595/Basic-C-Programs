@@ -3,16 +3,16 @@
 //	Q. Accept one character from user and one number from user 
 //     and print that specific character in specific no of times.
 //
-// 	 	Input  : 'M'  5			|   '$'   -4     |    'X'   2   
+// 	Input  : 'M'  5			|   '$'   -4     |    'X'   2   
 //  	Output :  M M M M M		|	$ $ $ $      |     X  X 
 //
 //
 //	Input:  		Char,Int
-//  Output:		 	Char
-//	Technology: 	C++ 
+//      Output:		 	Char
+//	Technology: 	        C++ 
 //
-//  Author: 		Sanket Kolhe
-//  Date:   		31/05/2021
+// 	Author: 		Sanket Kolhe
+// 	Date:   		31/05/2021
 //	
 //////////////////////////////////////////////////////////////////////////   
 

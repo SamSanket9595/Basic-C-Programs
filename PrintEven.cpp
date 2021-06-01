@@ -33,7 +33,7 @@ void PrintEven :: evenNumbers(int n)
 {
 	int i=0;
 	
-	for(i=1;i<=n;i++)
+	for(i=1;i<=n;i++)			//Print the even numbers
 	{
 		cout<<i*2<<' ';
 	}
@@ -48,9 +48,9 @@ int main()
 	cout<<"Enter how many even numbers ";
 	cin>>n;
 	
-	PrintEven obj;
+	PrintEven obj;		//PrintEven class object
 	
-	obj.evenNumbers(n);
+	obj.evenNumbers(n);	//Call the evenNumbers function
 	
 	return 0;
 }

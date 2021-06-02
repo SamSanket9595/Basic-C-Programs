@@ -4,8 +4,8 @@
 //		user and print even factors of that number 
 //		on the screen.
 //		
-//		Input:  24			 |	 8		|	15
-//		Otput: 2 4 6 8 12	 | 2 4 		|   -
+//		Input:  24		|	 8		|	15
+//		Otput: 2 4 6 8 12	|    2 4 		|       -
 //	
 //		Technology: C++
 //		Input: Int

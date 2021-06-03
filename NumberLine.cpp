@@ -2,8 +2,8 @@
 //	Q. Write a program which accept number from user and
 //		print that number its number line.
 //		
-//	Input:  4					    |     3			
-//	Output: -4 -3 -2 -1 0 1 2 3 4   | -3 -2 -1 0 1 2 3 
+//	Input:  4		         |     3			
+//	Output: -4 -3 -2 -1 0 1 2 3 4  	 | -3 -2 -1 0 1 2 3 
 //	
 //	
 //	Technology: C++

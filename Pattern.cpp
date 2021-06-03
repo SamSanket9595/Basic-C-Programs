@@ -3,7 +3,7 @@
 //		print that number of $ and * on the screen.
 //		
 //	Input:  5					 |     3			|  -3
-//	Output: $ * $ * $ * $ * $ *  | $ * $ * $  * 	| $ * $ * $ *
+//	Output: $ * $ * $ * $ * $ * 			 | $ * $ * $  * 		|  $ * $ * $ *
 //	
 //	
 //	Technology: C++

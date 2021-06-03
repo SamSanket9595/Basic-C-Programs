@@ -2,8 +2,8 @@
 //	Q. Write a program which accept number from user and
 //		print first five multiples of that number on screen.
 //		
-//	Input:  5				  |     3			    |  -4
-//	Output: 5 10 15 20 25     | 3  6  9  12 15   	| 4  8 12 16 20
+//	Input:  5		  |     3		        |  -4
+//	Output: 5 10 15 20 25     | 3  6  9  12 15   		| 4  8 12 16 20
 //	
 //	
 //	Technology: C++
